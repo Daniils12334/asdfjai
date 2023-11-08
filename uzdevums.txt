@@ -1,0 +1,10 @@
+Sveiki, mūsu kompānijai vajag izveidot mobīlo aplikāciju "pomodoro taimers"
+Lietotnē jābūt taimerim garumā "25 min" "15 min" "5 min", kuru varēs sākt, lietojot lielu pogu ekrāna vidū
+Lietotnes interfejsā jābūt Taimera aktivēšanas poga(Tālāk viņa pārveidojas pauzes pogā), taimera ilguma izvēlēšanas poga, lietotnes logo
+Lietotnes ikonei jābūt sarkanā krāsā, ar tomāta caurspīdīgo attēlu
+jums jālito jebkuras bez autriskās lietas.
+Manuprāt šī lietotne palīdzēs cilvēķiem vairāk atpusties, vienlaicīģi kontrolējot savu laiku
+darba piemēri:  
+https://pomofocus.io/
+https://www.toptal.com/project-managers/tomato-timer
+https://www.tomatotimers.com/
